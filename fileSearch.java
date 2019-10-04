@@ -1,3 +1,11 @@
+/*
+This program will find a word or sentence in a .txt file you want to search and will output the line number,index (start)
+of the word and print out the entire line the target word occurs on.
+
+in order to run this open terminal(mac) or commad line (windows) and cd into the file that the program is on, then enter 
+"java fileSearch "word or sentence you like the search" file-you-want-to-search.txt"  also the .txt file had to be in the same
+folder as the program
+*/
 package fileSearch;
 
 import java.io.File;
