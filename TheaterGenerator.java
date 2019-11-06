@@ -1,3 +1,7 @@
+/*This program will contain 3 movies in a theater with 3 auditoriums that is hard coded.
+The program will generate the revenue of a theater selling tickets for $15 and running these movies from 10am - 11pm,
+by determining the capacity of each theater, fullness, and length of movie. */
+
 import java.time.Duration;
 import java.time.LocalTime;
 import java.util.ArrayList;
